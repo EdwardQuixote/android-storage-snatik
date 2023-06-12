@@ -9,7 +9,7 @@ Library to create, read, delete, append, encrypt files and more, on internal or 
 
 ``` groovy
 dependencies {
-    compile 'com.snatik:storage:2.1.0'
+    implementation 'com.snatik:storage:2.1.0'
 }
 ```
 
